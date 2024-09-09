@@ -1,5 +1,5 @@
 {
-  "customizations": {
+  "customization": {
     "vscode": {
       "extensions": [
         "dbaeumer.vscode-eslint",
